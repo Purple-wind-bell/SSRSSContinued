@@ -1,11 +1,11 @@
 INSTALL INSTRUCTIONS for SSRSS
 
-1. Download and install RSS
+1. Download and install RSS:  https://github.com/KSP-RO/RealSolarSystem/releases/tag/v12.0.0
 
-2. Download and install RSS TEXTURES
+2. Download and install RSS TEXTURES: https://github.com/KSP-RO/RSS-Textures/releases
 
-3. Install SSRSS folder into your GameData folder
+3. Install the SSRSS folder into your GameData folder
 
-OPTIONAL: //HAVE NOT STARTED VISUALS YET. THIS IS JUST 
+OPTIONAL: //HAVE NOT STARTED VISUALS YET. THIS IS JUST A PLACEHOLDER SECTION
 
 1. Install EVE yada yada yada
