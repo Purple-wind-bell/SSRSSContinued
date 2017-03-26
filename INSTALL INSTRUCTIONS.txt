@@ -1,0 +1,11 @@
+INSTALL INSTRUCTIONS for SSRSS
+
+1. Download and install RSS
+
+2. Download and install RSS TEXTURES
+
+3. Install SSRSS folder into your GameData folder
+
+OPTIONAL: //HAVE NOT STARTED VISUALS YET. THIS IS JUST 
+
+1. Install EVE yada yada yada
