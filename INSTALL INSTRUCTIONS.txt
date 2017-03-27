@@ -6,6 +6,12 @@ INSTALL INSTRUCTIONS for SSRSS
 
 3. Install the SSRSS folder into your GameData folder
 
-OPTIONAL: //HAVE NOT STARTED VISUALS YET. THIS IS JUST A PLACEHOLDER SECTION
+OPTIONAL: These mods are currently supported and just need to be downloaded and installed.
 
-1. Install EVE yada yada yada
+-Environmental Visual Enhancements 
+
+-Scatterer
+
+-Distant Object Enhancements
+
+-PlanetShine
