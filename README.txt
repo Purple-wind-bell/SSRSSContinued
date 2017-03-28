@@ -1,32 +1,29 @@
 **SSRSS**
-This is a revival of SSRSS. v0.0.1 
+This is a revival of SSRSS. v0.0.2 
 
 This mods is licensed by Creative Commons Attribution-NonCommercial-NoDerivs 
 CC BY-NC-ND 
 
 **Change Log:**
 
-* Well, for starters, The download is no longer 1GB :)
-* No bundled mods. All Module Manager cfgs.
-* New Earth texture
-* Ring shaders! 
-* Terrain scatter, SVT style
-* Terrain textures for all bodies
-* New Sun texture
-* Proper eclispes, with or without Scatterer
+* Fixed exception spam around Saturn
+* Increased Enceladus and Mimus' SOI
+* Fixed install instructions
 
 **Current state is PRERELEASE. Please look for bugs**
 
 
 INSTALL INSTRUCTIONS for SSRSS
+1. Download Kopernicus:    https://github.com/Kopernicus/Kopernicus/releases
 
-1. Download and install RSS:    https://github.com/KSP-RO/RealSolarSystem/releases
+2. Download and install RSS:    https://github.com/KSP-RO/RealSolarSystem/releases
+(DO NOT US THE KOPERNICUS THAT COMES WITH RSS! DELETE IT)
 
-2. Download and install RSS TEXTURES:   https://github.com/KSP-RO/RSS-Textures/releases
+3. Download and install RSS TEXTURES:   https://github.com/KSP-RO/RSS-Textures/releases
 
-3. Install Sigma Dimensions:	https://github.com/Sigma88/Sigma-Dimensions/releases
+4. Install Sigma Dimensions:	https://github.com/Sigma88/Sigma-Dimensions/releases
 
-4. Install the SSRSS folder into your GameData folder
+5. Install the SSRSS folder into your GameData folder
 
 
 OPTIONAL: EVE, Scatterer, Distant Objects Enhancements, PlanetShine all have support. Thread links below. just download and install.
