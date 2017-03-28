@@ -1,5 +1,5 @@
 **SSRSS**
-This is a revival of SSRSS. v0.0.2 
+This is a revival of SSRSS. v0.0.2.1
 
 This mods is licensed by Creative Commons Attribution-NonCommercial-NoDerivs 
 CC BY-NC-ND 
@@ -9,6 +9,7 @@ CC BY-NC-ND
 * Fixed exception spam around Saturn
 * Increased Enceladus and Mimus' SOI
 * Fixed install instructions
+* Fixed performance issue on Titan
 
 **Current state is PRERELEASE. Please look for bugs**
 
