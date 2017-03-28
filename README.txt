@@ -15,6 +15,8 @@ CC BY-NC-ND
 * New Sun texture
 * Proper eclispes, with or without Scatterer
 
+**Current state is PRERELEASE. Please look for bugs**
+
 
 INSTALL INSTRUCTIONS for SSRSS
 
