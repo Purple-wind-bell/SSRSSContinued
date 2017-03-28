@@ -1,12 +1,19 @@
-**SSRSS Continued**
-This is a revival of SSRSS. v0.0.1
+**SSRSS**
+This is a revival of SSRSS. v0.0.1 
 
 This mods is licensed by Creative Commons Attribution-NonCommercial-NoDerivs 
 CC BY-NC-ND 
 
+**Change Log:**
 
-
-
+* Well, for starters, The download is no longer 1GB :)
+* No bundled mods. All Module Manager cfgs.
+* New Earth texture
+* Ring shaders! 
+* Terrain scatter, SVT style
+* Terrain textures for all bodies
+* New Sun texture
+* Proper eclispes, with or without Scatterer
 
 
 INSTALL INSTRUCTIONS for SSRSS
