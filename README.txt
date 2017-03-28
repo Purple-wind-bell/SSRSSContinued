@@ -15,7 +15,9 @@ INSTALL INSTRUCTIONS for SSRSS
 
 2. Download and install RSS TEXTURES:   https://github.com/KSP-RO/RSS-Textures/releases
 
-3. Install the SSRSS folder into your GameData folder
+3. Install Sigma Dimensions:	https://github.com/Sigma88/Sigma-Dimensions/releases
+
+4. Install the SSRSS folder into your GameData folder
 
 
 OPTIONAL: EVE, Scatterer, Distant Objects Enhancements, PlanetShine all have support. Thread links below. just download and install.
