@@ -1,3 +1,5 @@
 -For the love of God, only choose one and drop it in your GameData folder
 
--Requires Environmental Visual Enhancements: 
+REQUIRES:
+Environmental Visual Enhancements
+http://forum.kerbalspaceprogram.com/index.php?/topic/149733-122-environmentalvisualenhancements-12-2/&
