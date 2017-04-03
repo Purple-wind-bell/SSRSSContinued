@@ -1,20 +1,14 @@
 **SSRSS**
-This is a revival of SSRSS. v0.0.2.1
+This is a revival of SSRSS. v0.0.2.2
 
 This mods is licensed by Creative Commons Attribution-NonCommercial-NoDerivs 
 CC BY-NC-ND 
 
 **Change Log:**
 
-* Fixed exception spam around Saturn
-* Increased Enceladus and Mimus' SOI
-* Fixed install instructions
-* Fixed performance issue on Titan
+* Fixed Scatterer artifacting on gas giants.
 
-**Current state is PRERELEASE. Please look for bugs**
-
-
-INSTALL INSTRUCTIONS for SSRSS
+**INSTALL INSTRUCTIONS for SSRSS**
 1. Download Kopernicus:    https://github.com/Kopernicus/Kopernicus/releases
 
 2. Download and install RSS:    https://github.com/KSP-RO/RealSolarSystem/releases
