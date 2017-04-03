@@ -13,7 +13,11 @@ CC BY-NC-ND
 1. Download Kopernicus:    https://github.com/Kopernicus/Kopernicus/releases
 
 2. Download and install RSS:    https://github.com/KSP-RO/RealSolarSystem/releases
-(ONLY install the RealSolarSystem folder. The bundled Kopernicus and ModularFlightIntegrator is outdated)
+<<<<<<< HEAD
+(ONLY install the RealSolarSystem file. The bundled Kopernicus and ModularFlightIntegrator is outdated)
+=======
+(ONLY install the RealSolarSystem file. The bundled Kopernicus and ModularFlightIntegrator is outdated)
+>>>>>>> origin/master
 
 3. Download and install RSS TEXTURES:   https://github.com/KSP-RO/RSS-Textures/releases
 
