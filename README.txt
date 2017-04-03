@@ -7,6 +7,7 @@ CC BY-NC-ND
 **Change Log:**
 
 * Fixed Scatterer artifacting on gas giants.
+* Fixed install instructions and links
 
 **INSTALL INSTRUCTIONS for SSRSS**
 1. Download Kopernicus:    https://github.com/Kopernicus/Kopernicus/releases
