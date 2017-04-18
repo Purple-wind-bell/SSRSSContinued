@@ -1,13 +1,15 @@
 **SSRSS**
-This is a revival of SSRSS. v0.0.2.2
+This is a revival of SSRSS. v0.0.2.3
 
 This mods is licensed by Creative Commons Attribution-NonCommercial-NoDerivs 
 CC BY-NC-ND 
 
 **Change Log:**
 
-* Fixed Scatterer artifacting on gas giants.
-* Fixed install instructions and links
+* Fixed cloud altitude issues with sigma dimensions
+* Removed Plutos atmosphere (in stock size it was practically gone anyway)
+* Fixed the binary sytem of Pluto/Charon
+* Fixed the dullness of Saturn and Neptunes Scatterer cfgs
 
 **INSTALL INSTRUCTIONS for SSRSS**
 1. Download Kopernicus:    https://github.com/Kopernicus/Kopernicus/releases
