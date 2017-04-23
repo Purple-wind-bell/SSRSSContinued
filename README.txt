@@ -1,5 +1,5 @@
 **SSRSS**
-This is a revival of SSRSS. v0.0.2.4
+This is a revival of SSRSS. v0.0.2.5
 
 This mods is licensed by Creative Commons Attribution-NonCommercial-NoDerivs 
 CC BY-NC-ND 
