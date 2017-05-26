@@ -1,16 +1,12 @@
 **SSRSS**
-<<<<<<< HEAD
 This is a revival of SSRSS. v0.0.2.6
-=======
-This is a revival of SSRSS. v0.0.2.5
->>>>>>> origin/master
 
 This mods is licensed by Creative Commons Attribution-NonCommercial-NoDerivs 
 CC BY-NC-ND 
 
 **Change Log:**
 
-* Fixes moire effect on Earth for Mac and Linux users
+* Fixed ScanSat altitude issue
 
 **INSTALL INSTRUCTIONS for SSRSS**
 1. Download Kopernicus:    https://github.com/Kopernicus/Kopernicus/releases
