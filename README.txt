@@ -8,6 +8,7 @@ CC BY-NC-ND
 
 * New aurora texture
 * Lightning on Venus and Jupiter
+* Added Kopernicus Expansion footprint support
 * Fixed super-sized sun when scatterer isn't installed
 * Earth is no longer called Kerbin in some instances (Distant Objects, etc.)
 * Fixed ScanSat scan altitude 
