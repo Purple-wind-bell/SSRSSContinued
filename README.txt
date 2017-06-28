@@ -1,12 +1,20 @@
 **SSRSS**
-This is a revival of SSRSS. v0.0.2.6
+This is a revival of SSRSS. v0.0.2.8
 
 This mods is licensed by Creative Commons Attribution-NonCommercial-NoDerivs 
 CC BY-NC-ND 
 
 **Change Log:**
 
-* Fixed ScanSat altitude issue
+* New aurora texture
+* Lightning on Venus and Jupiter
+* Fixed super-sized sun when scatterer isn't installed
+* Earth is no longer called Kerbin in some instances (Distant Objects, etc.)
+* Fixed ScanSat scan altitude 
+* Fixed "High/Low Orbit" altitude 
+* Added Kronometer support
+  * Earth has a 8 hour day
+  * Kronometer must be installed for this to work: https://github.com/StollD/kronometer/releases
 
 **INSTALL INSTRUCTIONS for SSRSS**
 1. Download Kopernicus:    https://github.com/Kopernicus/Kopernicus/releases
@@ -19,6 +27,8 @@ CC BY-NC-ND
 4. Install Sigma Dimensions:	https://github.com/Sigma88/Sigma-Dimensions/releases
 
 5. Install the SSRSS folder into your GameData folder
+
+**To replace the sun flare, you must replace the textures and cfg that come with SSRSS located in _GameData\SSRSS\visuals\scatterer\SunFlares\Sun_ with the sun flare of your choosing**
 
 
 OPTIONAL: EVE, Scatterer, Distant Objects Enhancements, PlanetShine all have support. Thread links below. just download and install.
