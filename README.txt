@@ -1,5 +1,5 @@
 **SSRSS**
-This is a revival of SSRSS. v0.0.2.8
+This is a revival of SSRSS. v0.0.2.9
 
 This mods is licensed by Creative Commons Attribution-NonCommercial-NoDerivs 
 CC BY-NC-ND 
@@ -8,11 +8,14 @@ CC BY-NC-ND
 
 * New aurora texture
 * Lightning on Venus and Jupiter
+* Very light clouds on Mars
 * Added Kopernicus Expansion footprint support
 * Fixed super-sized sun when scatterer isn't installed
 * Earth is no longer called Kerbin in some instances (Distant Objects, etc.)
 * Fixed ScanSat scan altitude 
 * Fixed "High/Low Orbit" altitude 
+* Fixed KSCSwitcher 
+  * Cape Canaveral does not spawn in the ocean anymore
 * Added Kronometer support
   * Earth has a 8 hour day
   * Kronometer must be installed for this to work: https://github.com/StollD/kronometer/releases
