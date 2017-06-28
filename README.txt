@@ -8,7 +8,7 @@ CC BY-NC-ND
 
 * New aurora texture
 * Lightning on Venus and Jupiter
-* Very light clouds on Mars
+* Added very light clouds on Mars
 * Added Kopernicus Expansion footprint support
 * Fixed super-sized sun when scatterer isn't installed
 * Earth is no longer called Kerbin in some instances (Distant Objects, etc.)
