@@ -6,9 +6,11 @@ CC BY-NC-ND
 
 **Change Log:**
 
-* Update for latest scatterer.
+* Update for latest scatterer v0.0320b
 * Few more fixes for RSS and 1.3
-* Removed Volumetric clouds on Venus and Titan until Scatterer can fix its black cloud issue.
+* Removed Volumetric clouds on Venus and Titan until Scatterer can fix its black cloud issue
+* Added sun light intensity curve (bodies get darker as they get further from the sun)
+* New sun flare
 
 **INSTALL INSTRUCTIONS for SSRSS**
 1. Download Kopernicus:    https://github.com/Kopernicus/Kopernicus/releases
