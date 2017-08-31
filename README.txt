@@ -1,24 +1,14 @@
 **SSRSS**
-This is a revival of SSRSS. v0.0.2.9
+This is a revival of SSRSS. v0.0.3.0
 
 This mods is licensed by Creative Commons Attribution-NonCommercial-NoDerivs 
 CC BY-NC-ND 
 
 **Change Log:**
 
-* New aurora texture
-* Lightning on Venus and Jupiter
-* Added very light clouds on Mars
-* Added Kopernicus Expansion footprint support
-* Fixed super-sized sun when scatterer isn't installed
-* Earth is no longer called Kerbin in some instances (Distant Objects, etc.)
-* Fixed ScanSat scan altitude 
-* Fixed "High/Low Orbit" altitude 
-* Fixed KSCSwitcher 
-  * Cape Canaveral does not spawn in the ocean anymore
-* Added Kronometer support
-  * Earth has a 8 hour day
-  * Kronometer must be installed for this to work: https://github.com/StollD/kronometer/releases
+* Update for latest scatterer.
+* Few more fixes for RSS and 1.3
+* Removed Volumetric clouds on Venus and Titan until Scatterer can fix its black cloud issue.
 
 **INSTALL INSTRUCTIONS for SSRSS**
 1. Download Kopernicus:    https://github.com/Kopernicus/Kopernicus/releases
@@ -35,18 +25,21 @@ CC BY-NC-ND
 **To replace the sun flare, you must replace the textures and cfg that come with SSRSS located in _GameData\SSRSS\visuals\scatterer\SunFlares\Sun_ with the sun flare of your choosing**
 
 
-OPTIONAL: EVE, Scatterer, Distant Objects Enhancements, PlanetShine all have support. Thread links below. just download and install.
+# OPTIONAL: 
+Kronometer, EVE, Scatterer, Distant Objects Enhancements, PlanetShine all have support. Thread links below. just download and install.
 
+-**Kronometer**
+https://forum.kerbalspaceprogram.com/index.php?/topic/161218-130plugin-kronometer-v130-2/
 
--Environmental Visual Enhancements 
+-**Environmental Visual Enhancements** 
 http://forum.kerbalspaceprogram.com/index.php?/topic/149733-122-environmentalvisualenhancements-12-2/&
 
--Scatterer: 
+-**Scatterer** 
 http://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip122-scatterer-atmospheric-scattering-v00300-22012017/&
 
--Distant Object Enhancements
+-**Distant Object Enhancements**
 http://forum.kerbalspaceprogram.com/index.php?/topic/89214-12x-distant-object-enhancement-bis-v181-20-october-2016/#comment-1503616
 
--PlanetShine
+-**PlanetShine**
 http://forum.kerbalspaceprogram.com/index.php?/topic/87012-12-planetshine-v0252-stable-v05-experimental-4-october-2016/#comment-1456424
 
