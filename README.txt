@@ -9,6 +9,7 @@ CC BY-NC-ND
 * Update version file for 1.3.1
 * Adjusted Scatterer's load and unload distances
 * Adjusted the Sun light curve
+* Fixed Saturn's rings. No longer show up black.
 
 **INSTALL INSTRUCTIONS for SSRSS**
 1. Download Kopernicus:    https://github.com/Kopernicus/Kopernicus/releases
