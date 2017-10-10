@@ -1,17 +1,14 @@
 **SSRSS**
-This is a revival of SSRSS. v0.0.3.0
+This is a revival of SSRSS. v0.0.3.1
 
 This mods is licensed by Creative Commons Attribution-NonCommercial-NoDerivs 
 CC BY-NC-ND 
 
 **Change Log:**
 
-* Update for latest scatterer v0.0320b
-* Few more fixes for RSS and 1.3
-* Removed Volumetric clouds on Venus and Titan until Scatterer can fix its black cloud issue
-* New sun flare
-* Added sun light intensity curve (bodies get darker as they get further from the sun)
-  * If you don't like it, or think its too dark, just delete the SunCurve.cfg in SSRSS/configs
+* Update version file for 1.3.1
+* Adjusted Scatterer's load and unload distances
+* Adjusted the Sun light curve
 
 **INSTALL INSTRUCTIONS for SSRSS**
 1. Download Kopernicus:    https://github.com/Kopernicus/Kopernicus/releases
@@ -31,7 +28,7 @@ CC BY-NC-ND
 # OPTIONAL: 
 Kronometer, EVE, Scatterer, Distant Objects Enhancements, PlanetShine all have support. Thread links below. just download and install.
 
--**Kronometer**
+-**Kronometer - _Highly recommended to get the correct time in game_**
 https://forum.kerbalspaceprogram.com/index.php?/topic/161218-130plugin-kronometer-v130-2/
 
 -**Environmental Visual Enhancements** 
